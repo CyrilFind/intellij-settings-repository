@@ -20,11 +20,24 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="android.deploy.ApplyChanges" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Touchbar Run/Debug Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.Push" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DeviceAndSnapshotComboBox" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
