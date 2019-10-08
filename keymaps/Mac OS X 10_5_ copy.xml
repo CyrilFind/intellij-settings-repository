@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="meta f10" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Android.RunLayoutInspector">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
