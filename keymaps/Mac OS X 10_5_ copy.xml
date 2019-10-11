@@ -74,6 +74,10 @@
   <action id="IntroduceProperty">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
