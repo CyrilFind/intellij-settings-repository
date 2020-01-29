@@ -18,6 +18,7 @@
     <mask>*.mxml</mask>
     <mask>!R.java</mask>
     <mask>!R.java, !*build, !*.txt</mask>
+    <mask>!R.java, !*build, !*.xml</mask>
     <mask>!R.java, !*build</mask>
   </component>
 </application>
