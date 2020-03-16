@@ -1,10 +1,10 @@
 <scheme name="Darculai (cyrilfind)" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-02-17T10:28:41</property>
+    <property name="created">2020-02-17T10:39:43</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-02-17T10:37:31</property>
-    <property name="originalScheme">Darcula copy</property>
+    <property name="modified">2020-03-02T18:50:37</property>
+    <property name="originalScheme">Darculai (cyrilfind)</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="414141" />
