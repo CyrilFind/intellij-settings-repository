@@ -62,6 +62,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl f" />
+    <mouse-shortcut keystroke="meta button1 doubleClick" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
