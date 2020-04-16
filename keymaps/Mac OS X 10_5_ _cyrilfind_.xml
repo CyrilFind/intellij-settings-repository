@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ (cyrilfind)" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -44,6 +47,10 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CopyElement" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -166,4 +173,5 @@
   <action id="osmedile.intellij.stringmanip.swap.SwapAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="tasks.goto" />
 </keymap>
