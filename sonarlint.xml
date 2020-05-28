@@ -1,12 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="java:S1220" />
-        <option value="kotlin:S108" />
-        <option value="kotlin:S1186" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -17,5 +10,10 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="kotlin:S1186" />
+      <Rule active="false" key="kotlin:S108" />
+      <Rule active="false" key="java:S1220" />
+    </rules>
   </component>
 </application>
