@@ -1,7 +1,4 @@
 <keymap version="1" name="Mac OS X 10.5+ (cyrilfind)" parent="Mac OS X 10.5+">
-  <action id="$LRU">
-    <keyboard-shortcut first-keystroke="shift alt o" />
-  </action>
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -16,7 +13,6 @@
   </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="f5" />
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
@@ -48,10 +44,6 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CopyElement" />
-  <action id="Editor LRU">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-    <keyboard-shortcut first-keystroke="shift alt o" />
-  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -61,27 +53,15 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
-  <action id="ExpandLiveTemplateCustom">
-    <keyboard-shortcut first-keystroke="ctrl l" />
-  </action>
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta f12" />
-    <keyboard-shortcut first-keystroke="meta i" />
-  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl f" />
-    <mouse-shortcut keystroke="meta button1 doubleClick" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -89,17 +69,6 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
-  </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta alt b" />
-  </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
@@ -119,10 +88,6 @@
     <keyboard-shortcut first-keystroke="f6" />
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="NavBar-selectEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -136,12 +101,6 @@
     <keyboard-shortcut first-keystroke="meta alt f8" />
     <mouse-shortcut keystroke="shift alt button1" />
     <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="shift meta b" />
@@ -165,10 +124,6 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
-  </action>
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="meta f1" />
-    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
@@ -204,11 +159,7 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
-    <keyboard-shortcut first-keystroke="shift alt u" />
-  </action>
   <action id="osmedile.intellij.stringmanip.swap.SwapAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="tasks.goto" />
 </keymap>

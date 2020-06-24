@@ -7,7 +7,6 @@
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
