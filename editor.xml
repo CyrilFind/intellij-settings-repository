@@ -7,13 +7,10 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Source Code Pro for Powerline" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Roboto Mono for Powerline" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
