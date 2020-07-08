@@ -3,7 +3,7 @@
     <property name="created">2020-02-17T10:39:43</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-03-02T18:50:37</property>
+    <property name="modified">2020-07-08T15:09:02</property>
     <property name="originalScheme">Darculai (cyrilfind)</property>
   </metaInfo>
   <colors>
@@ -65,7 +65,7 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="bbb529" />
         <option name="BACKGROUND" value="2b2b2b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
