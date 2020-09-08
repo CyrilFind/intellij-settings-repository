@@ -5,6 +5,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl dead_circumflex" />
   </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="CloseAllUnmodifiedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -43,6 +46,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.Push" />
   <action id="WelcomeScreen.Settings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
