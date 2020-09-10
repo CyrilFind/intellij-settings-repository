@@ -41,9 +41,13 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoTest" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -52,10 +56,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="ResourceExplorer.show" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
