@@ -20,6 +20,11 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="ctrl b" />
