@@ -27,6 +27,7 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1359375" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
         <entry key="design-system/core/src/main/res/layout/item_section_card.xml" value="0.1" />
+        <entry key="design-system/sample/src/main/res/layout/activity_avatars.xml" value="0.1" />
       </map>
     </option>
   </component>
