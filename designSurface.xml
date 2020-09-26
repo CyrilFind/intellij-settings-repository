@@ -26,7 +26,9 @@
         <entry key="../../../../../layout/compose-model-1601031976568.xml" value="0.1" />
         <entry key="../../../../../layout/compose-model-1601125530380.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1359375" />
+        <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10925925925925926" />
+        <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.375" />
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.165" />
         <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
