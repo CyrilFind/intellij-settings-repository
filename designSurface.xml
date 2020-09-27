@@ -29,7 +29,7 @@
         <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/fragment_video.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_video.xml" value="0.10449735449735449" />
         <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
         <entry key="design-system/core/src/main/res/layout/item_section_card.xml" value="0.1" />
