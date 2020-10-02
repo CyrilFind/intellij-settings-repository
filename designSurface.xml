@@ -35,6 +35,7 @@
         <entry key="design-system/core/src/main/res/drawable/ic_recommend_old.xml" value="0.15625" />
         <entry key="design-system/core/src/main/res/drawable/selector_mychannel_add.xml" value="0.188125" />
         <entry key="design-system/core/src/main/res/drawable/selector_recommend.xml" value="0.16375" />
+        <entry key="design-system/core/src/main/res/layout/item_poster.xml" value="0.1" />
         <entry key="design-system/core/src/main/res/layout/item_section_card.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_avatars.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_channels.xml" value="0.1" />
