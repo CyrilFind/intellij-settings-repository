@@ -41,6 +41,7 @@
         <entry key="design-system/sample/src/main/res/layout/activity_channels.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_posters.xml" value="0.1" />
         <entry key="legacy/oldapp/src/main/res/layout/activity_cast.xml" value="0.18359375" />
+        <entry key="legacy/oldapp/src/main/res/layout/item_inline_episode_expanded.xml" value="0.1" />
         <entry key="legacy/oldapp/src/main/res/layout/layout_detail_header_view_tv.xml" value="0.1" />
         <entry key="legacy/oldapp/src/main/res/menu/advanced_settings.xml" value="0.1" />
         <entry key="legacy/oldapp/src/main/res/menu/cast.xml" value="0.18359375" />
