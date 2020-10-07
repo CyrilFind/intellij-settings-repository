@@ -32,10 +32,22 @@
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.10449735449735449" />
         <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
+        <entry key="design-system/core/src/main/res/drawable/ic_recommend_old.xml" value="0.15625" />
+        <entry key="design-system/core/src/main/res/drawable/selector_mychannel_add.xml" value="0.188125" />
+        <entry key="design-system/core/src/main/res/drawable/selector_recommend.xml" value="0.16375" />
+        <entry key="design-system/core/src/main/res/layout/item_poster.xml" value="0.1" />
         <entry key="design-system/core/src/main/res/layout/item_section_card.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_avatars.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_channels.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_posters.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/layout/activity_cast.xml" value="0.18359375" />
+        <entry key="legacy/oldapp/src/main/res/layout/item_inline_episode_expanded.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/layout/layout_detail_header_view_tv.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/advanced_settings.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/cast.xml" value="0.18359375" />
+        <entry key="legacy/oldapp/src/main/res/menu/customize.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/devices.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/filter.xml" value="0.1" />
       </map>
     </option>
   </component>
