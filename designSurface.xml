@@ -1,0 +1,54 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1600769381871.xml" value="0.55" />
+        <entry key="../../../../../layout/compose-model-1600774867855.xml" value="0.17333333333333334" />
+        <entry key="../../../../../layout/compose-model-1600774909849.xml" value="0.18796296296296297" />
+        <entry key="../../../../../layout/compose-model-1600776158444.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600778032220.xml" value="0.2558974358974359" />
+        <entry key="../../../../../layout/compose-model-1600778639651.xml" value="0.16574074074074074" />
+        <entry key="../../../../../layout/compose-model-1600778673881.xml" value="0.13811007268951195" />
+        <entry key="../../../../../layout/compose-model-1600778700313.xml" value="0.3194444444444444" />
+        <entry key="../../../../../layout/compose-model-1600780471370.xml" value="0.16574074074074074" />
+        <entry key="../../../../../layout/compose-model-1600896911373.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600897010464.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600897040038.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600900550183.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600900551251.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600900602308.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600900662593.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600900670912.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600903213710.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600903216569.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600904835609.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1600904835658.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1601031976568.xml" value="0.1" />
+        <entry key="../../../../../layout/compose-model-1601125530380.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10925925925925926" />
+        <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_video.xml" value="0.10449735449735449" />
+        <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
+        <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
+        <entry key="design-system/core/src/main/res/drawable/ic_recommend_old.xml" value="0.15625" />
+        <entry key="design-system/core/src/main/res/drawable/selector_mychannel_add.xml" value="0.188125" />
+        <entry key="design-system/core/src/main/res/drawable/selector_recommend.xml" value="0.16375" />
+        <entry key="design-system/core/src/main/res/layout/item_poster.xml" value="0.1" />
+        <entry key="design-system/core/src/main/res/layout/item_section_card.xml" value="0.1" />
+        <entry key="design-system/sample/src/main/res/layout/activity_avatars.xml" value="0.1" />
+        <entry key="design-system/sample/src/main/res/layout/activity_channels.xml" value="0.1" />
+        <entry key="design-system/sample/src/main/res/layout/activity_posters.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/layout/activity_cast.xml" value="0.18359375" />
+        <entry key="legacy/oldapp/src/main/res/layout/item_inline_episode_expanded.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/layout/layout_detail_header_view_tv.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/advanced_settings.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/cast.xml" value="0.18359375" />
+        <entry key="legacy/oldapp/src/main/res/menu/customize.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/devices.xml" value="0.1" />
+        <entry key="legacy/oldapp/src/main/res/menu/filter.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
