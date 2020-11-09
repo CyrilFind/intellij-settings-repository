@@ -4,5 +4,6 @@
     <notification groupId="Gradle KTS build files" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="izhangzhihao.rainbow.brackets_UPDATE" />
+    <notification groupId="Test Results: Run" />
   </component>
 </application>
