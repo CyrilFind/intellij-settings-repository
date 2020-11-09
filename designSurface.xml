@@ -33,6 +33,7 @@
         <entry key="../../../../../layout/compose-model-1604678045940.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1604682061301.xml" value="0.5" />
         <entry key="../../../../../layout/compose-model-1604875686621.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1604879862112.xml" value="1.0" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10925925925925926" />
@@ -44,7 +45,12 @@
         <entry key="design-system/core/src/main/res/drawable/selector_mychannel_add.xml" value="0.188125" />
         <entry key="design-system/core/src/main/res/drawable/selector_recommend.xml" value="0.16375" />
         <entry key="design-system/core/src/main/res/layout/item_poster.xml" value="0.1" />
+        <entry key="design-system/core/src/main/res/layout/item_section.xml" value="0.1" />
         <entry key="design-system/core/src/main/res/layout/item_section_card.xml" value="0.1" />
+        <entry key="design-system/core/src/main/res/layout/item_trade_marketing.xml" value="0.1" />
+        <entry key="design-system/core/src/main/res/layout/layout_avatar.xml" value="0.1" />
+        <entry key="design-system/core/src/main/res/layout/layout_snackbar.xml" value="0.1" />
+        <entry key="design-system/core/src/main/res/layout/layout_tooltip.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_avatars.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_channels.xml" value="0.1" />
         <entry key="design-system/sample/src/main/res/layout/activity_posters.xml" value="0.1" />
