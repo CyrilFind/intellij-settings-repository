@@ -52,9 +52,14 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/Cyril/StudioProjects/android-cocktail/design-system/core/src/main/res/layout/item_trade_marketing.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13854166666666667" />
+        <entry key="app/src/main/res/drawable/create.xml" value="0.14166666666666666" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/drawable/ic_powder_rainbow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/message.xml" value="0.18703703703703703" />
+        <entry key="app/src/main/res/drawable/profile.xml" value="0.18703703703703703" />
+        <entry key="app/src/main/res/drawable/profile_active.xml" value="0.18703703703703703" />
         <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/drawable/tab_active.xml" value="0.14166666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_delivery_list.xml" value="0.1" />
