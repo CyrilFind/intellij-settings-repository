@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="c90aa03d-6ea7-4ec0-a323-98f8fd281c90" name="CyrilFind">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
