@@ -3,7 +3,7 @@
     <property name="created">2020-02-17T10:39:43</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-07-08T15:09:02</property>
+    <property name="modified">2020-12-08T13:11:12</property>
     <property name="originalScheme">Darculai (cyrilfind)</property>
   </metaInfo>
   <colors>
@@ -78,6 +78,26 @@
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="5da3b9" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5394ec" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="299999" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d6bf55" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_ABBREVIATED_TEXT">
