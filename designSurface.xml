@@ -65,6 +65,7 @@
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.10449735449735449" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
         <entry key="design-system/core/src/main/res/drawable/ic_recommend_old.xml" value="0.15625" />
