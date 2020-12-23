@@ -64,6 +64,7 @@
         <entry key="../../../../../layout/compose-model-1608719377523.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1608719428418.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1608719635049.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1608736312156.xml" value="1.0" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="..\:/Users/Cyril/StudioProjects/android-cocktail/design-system/core/src/main/res/layout/item_trade_marketing.xml" value="0.1" />
         <entry key="..\:/Users/Cyril/StudioProjects/powder-android/app/src/main/res/drawable/tab_active.xml" value="0.2140625" />
@@ -81,6 +82,7 @@
         <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_delivery_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/fragment_report.xml" value="0.12129629629629629" />
         <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.12083333333333333" />
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.10449735449735449" />
         <entry key="app/src/main/res/layout/item_task.xml" value="0.1" />
