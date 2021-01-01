@@ -109,6 +109,7 @@
         <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/layout_feed.xml" value="0.121875" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
+        <entry key="app/src/main/res/xml/fragment_preference.xml" value="0.1" />
         <entry key="design-system/core/src/main/res/drawable/ic_recommend_old.xml" value="0.15625" />
         <entry key="design-system/core/src/main/res/drawable/selector_mychannel_add.xml" value="0.188125" />
         <entry key="design-system/core/src/main/res/drawable/selector_recommend.xml" value="0.16375" />
