@@ -90,13 +90,6 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="default" />
-              </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*RxSub*" />
                       <option name="style">
@@ -117,12 +110,13 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*OkHttp.*" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="(E|e):.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-7994999" />
+                              <option name="color" value="-65511" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -135,13 +129,20 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="(E|e):.*" />
+                      <option name="grepExpression" value=".*OkHttp.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-65511" />
+                              <option name="color" value="-7994999" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
