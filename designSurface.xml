@@ -136,7 +136,7 @@
         <entry key="app/src/main/res/drawable/diamond.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/drawable/platinum.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
-        <entry key="app/src/main/res/drawable/rounded_background.xml" value="0.10677083333333333" />
+        <entry key="app/src/main/res/drawable/rounded_background.xml" value="0.1140625" />
         <entry key="app/src/main/res/drawable/ruby.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/drawable/silver.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_authentification.xml" value="0.1" />
