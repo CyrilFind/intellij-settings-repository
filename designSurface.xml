@@ -118,6 +118,8 @@
         <entry key="../../../../../layout/compose-model-1611066648975.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1611069127053.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1611082429010.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1611133293683.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1611133315550.xml" value="1.0" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1125" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_ic_apple_white_24dp.xml" value="0.11614583333333334" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_idp_button_background_anonymous.xml" value="0.12083333333333333" />
@@ -140,6 +142,7 @@
         <entry key="app/src/main/res/drawable/battlenet.xml" value="0.2630208333333333" />
         <entry key="app/src/main/res/drawable/bronze.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/diamond.xml" value="0.13645833333333332" />
+        <entry key="app/src/main/res/drawable/more.xml" value="0.16927083333333334" />
         <entry key="app/src/main/res/drawable/platinum.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/drawable/rounded_background.xml" value="0.1140625" />
