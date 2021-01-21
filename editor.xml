@@ -1,6 +1,11 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="kotlin.KotlinReferencesTypeHintsProvider" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="CodeVision" />
     <settingsMapElement>
       <JAVA.JavaLens>
         <JavaLensSettings>
