@@ -125,7 +125,7 @@
         <entry key="../../../../../layout/compose-model-1611160626374.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1611162494010.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1611319594710.xml" value="1.0" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1125" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.28125" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_ic_apple_white_24dp.xml" value="0.11614583333333334" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_idp_button_background_anonymous.xml" value="0.12083333333333333" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_idp_button_background_apple.xml" value="0.10677083333333333" />
@@ -162,7 +162,7 @@
         <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_authentication.xml" value="0.13489583333333333" />
         <entry key="app/src/main/res/layout/fragment_delivery_list.xml" value="0.2546875" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.240625" />
         <entry key="app/src/main/res/layout/fragment_report.xml" value="0.1274062816616008" />
         <entry key="app/src/main/res/layout/fragment_signup.xml" value="0.13489583333333333" />
         <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.1793478260869565" />
