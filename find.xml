@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!R.java, !*build" />
+    <option name="FILE_MASK" value="!R.java, !*build, !*.jks" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +18,6 @@
     <mask>!R.java, !*build, !*.txt</mask>
     <mask>!R.java, !*build, !*.xml</mask>
     <mask>!R.java, !*build</mask>
+    <mask>!R.java, !*build, !*.jks</mask>
   </component>
 </application>
