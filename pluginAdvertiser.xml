@@ -1601,6 +1601,11 @@
                   </entry>
                   <entry key="Application">
                     <value>
+                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="Codeforces">
+                    <value>
                       <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
                     </value>
                   </entry>
