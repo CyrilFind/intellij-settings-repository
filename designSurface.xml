@@ -178,7 +178,7 @@
         <entry key="app/src/main/res/drawable/silver.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_authentification.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
-        <entry key="app/src/main/res/layout/activity_user_info.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_info.xml" value="0.5" />
         <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.17980072463768115" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.25" />
@@ -187,7 +187,7 @@
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.240625" />
         <entry key="app/src/main/res/layout/fragment_report.xml" value="0.1274062816616008" />
         <entry key="app/src/main/res/layout/fragment_signup.xml" value="0.13489583333333333" />
-        <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_unloading_end.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_vehicle_list.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_video.xml" value="0.10449735449735449" />
