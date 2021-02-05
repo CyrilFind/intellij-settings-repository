@@ -147,6 +147,7 @@
         <entry key="../../../../../layout/compose-model-1612274132215.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1612281081439.xml" value="1.0" />
         <entry key="../../../../../layout/compose-model-1612366154958.xml" value="0.38461538461538464" />
+        <entry key="../../../../../layout/compose-model-1612528020485.xml" value="1.0" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.25555555555555554" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_ic_apple_white_24dp.xml" value="0.11614583333333334" />
         <entry key="../../../.gradle/caches/transforms-3/1edaca24c10db1be17e6b6d0fba2f568/transformed/firebase-ui-auth-7.1.1/res/drawable/fui_idp_button_background_anonymous.xml" value="0.12083333333333333" />
@@ -197,6 +198,8 @@
         <entry key="app/src/main/res/layout/item_video.xml" value="0.10925925925925926" />
         <entry key="app/src/main/res/layout/layout_feed.xml" value="0.121875" />
         <entry key="app/src/main/res/layout/video_player.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24375" />
         <entry key="app/src/main/res/xml/fragment_preference.xml" value="0.1" />
         <entry key="design-system/core/src/main/res/drawable/ic_recommend_old.xml" value="0.15625" />
         <entry key="design-system/core/src/main/res/drawable/selector_mychannel_add.xml" value="0.188125" />
