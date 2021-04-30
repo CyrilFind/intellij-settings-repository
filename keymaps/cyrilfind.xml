@@ -45,7 +45,6 @@
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CopyElement" />
