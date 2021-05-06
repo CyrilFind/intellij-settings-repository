@@ -175,6 +175,10 @@
         <entry key="app/src/main/res/drawable/bronze.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/diamond.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/drawable/gif.xml" value="0.12239583333333333" />
+        <entry key="app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24_2.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/more.xml" value="0.16927083333333334" />
         <entry key="app/src/main/res/drawable/platinum.xml" value="0.13645833333333332" />
         <entry key="app/src/main/res/drawable/round_background.xml" value="0.24583333333333332" />
