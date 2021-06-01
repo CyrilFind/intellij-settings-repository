@@ -1,0 +1,13 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <serialNumber value="0B261FDD400312" />
+        <name value="Google Pixel 5" />
+        <target value="Android 11.0" />
+        <api value="30" />
+        <connectionType value="USB" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
