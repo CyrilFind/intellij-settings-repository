@@ -3,7 +3,6 @@
     <physicalDevices>
       <PhysicalDevice>
         <serialNumber value="0B261FDD400312" />
-        <lastOnlineTime value="2021-06-01T09:21:32.734689Z" />
         <name value="Google Pixel 5" />
         <target value="Android 11.0" />
         <api value="30" />
