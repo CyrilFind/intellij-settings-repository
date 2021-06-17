@@ -27,6 +27,11 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Codeforces">
+                    <value>
+                      <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
+                    </value>
+                  </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Compose Preview" pluginName="Design Tools" pluginId="com.android.tools.design" bundled="true" />
@@ -80,6 +85,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
                     </value>
                   </entry>
                   <entry key="TestNG">
