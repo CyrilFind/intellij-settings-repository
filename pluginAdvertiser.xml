@@ -1609,7 +1609,7 @@
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Design Tools" pluginId="com.android.tools.design" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -1750,6 +1750,11 @@
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
                     </value>
                   </entry>
                   <entry key="TestNG">
