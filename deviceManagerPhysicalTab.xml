@@ -2,12 +2,16 @@
   <component name="deviceManagerPhysicalTab">
     <physicalDevices>
       <PhysicalDevice>
-        <serialNumber value="0B261FDD400312" />
-        <lastOnlineTime value="2021-06-03T11:18:56.703942Z" />
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0B261FDD400312" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-09-21T10:00:21.339064Z" />
         <name value="Google Pixel 5" />
         <target value="Android 11.0" />
         <api value="30" />
-        <connectionType value="USB" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
