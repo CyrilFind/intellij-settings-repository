@@ -13,6 +13,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6842fc63" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-10-20T13:19:00.377938Z" />
+        <name value="OnePlus ONEPLUS A3010" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
