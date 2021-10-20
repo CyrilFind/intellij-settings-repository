@@ -410,13 +410,11 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <unmute-on-stop>true</unmute-on-stop>
-    </general>
+    <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="javascript">
         <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
