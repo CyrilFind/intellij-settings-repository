@@ -1,0 +1,29 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0B261FDD400312" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-09-21T10:00:21.339064Z" />
+        <name value="Google Pixel 5" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6842fc63" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A3010" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
