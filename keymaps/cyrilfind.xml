@@ -2,6 +2,7 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="AcceptInlineCompletionAction" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
     <keyboard-shortcut first-keystroke="meta 6" />
@@ -135,6 +136,8 @@
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ShowNextInlineCompletionAction" />
+  <action id="ShowPreviousInlineCompletionAction" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
