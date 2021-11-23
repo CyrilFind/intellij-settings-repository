@@ -49,6 +49,8 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CopyElement" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -136,6 +138,7 @@
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ShowContent" />
   <action id="ShowNextInlineCompletionAction" />
   <action id="ShowPreviousInlineCompletionAction" />
   <action id="ShowSettings">
