@@ -34,6 +34,13 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.KotlinReferencesTypeHintsProvider>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
@@ -48,6 +55,10 @@
     <option name="AUTO_QUOTE_PROP_NAME" value="false" />
     <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
+  <component name="SwiftEditorSettings">
+    <option name="SHOW_ERROR_HINTS" value="true" />
+    <option name="SHOW_TYPE_HINTS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
