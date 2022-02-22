@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/Assets/com.unique.powder/Runtime/Editor/DebugRecorder.cs'" />
-    <option name="defaultScopeName" value="File '…/Assets/com.unique.powder/Runtime/Editor/DebugRecorder.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…/Assets/com.unique.powder/Runtime/Editor/DebugRecorder.cs'" />
+    <option name="customScope" value="File '…/Assets/com.unique.powder/Runtime/IosRecorder.cs'" />
+    <option name="defaultScopeName" value="File '…/Assets/com.unique.powder/Runtime/IosRecorder.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…/Assets/com.unique.powder/Runtime/IosRecorder.cs'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
