@@ -26,7 +26,6 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="120" />
   <option name="SOFT_MARGINS" value="120" />
   <JetCodeStyleSettings>
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
@@ -34,10 +33,19 @@
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
   <SwiftCodeStyleSettings>
+    <option name="PREFER_EXPLICIT_RETURN" value="true" />
     <option name="SPACE_AFTER_OPERATOR_IN_FUNCTION_DECLARATIONS" value="true" />
+    <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
+    <option name="METHOD_CHAIN_INDENT" value="4" />
+    <option name="GUARD_ELSE_WRAP" value="0" />
   </SwiftCodeStyleSettings>
   <codeStyleSettings language="Swift">
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
