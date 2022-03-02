@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="VideoEnabledWebView.java" type="CLASS" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
@@ -19,6 +18,7 @@
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="VideoEnabledWebView.java" type="CLASS" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
