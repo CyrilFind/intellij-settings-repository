@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'A-Mobil'" />
+    <option name="defaultScopeName" value="Project 'A-Mobil'" />
+    <option name="SEARCH_SCOPE" value="Project 'A-Mobil'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
