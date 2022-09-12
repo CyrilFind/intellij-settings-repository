@@ -1,0 +1,6 @@
+<application>
+  <component name="Projector">
+    <option name="host" value="10.3.204.5" />
+    <option name="secureConnection" value="true" />
+  </component>
+</application>

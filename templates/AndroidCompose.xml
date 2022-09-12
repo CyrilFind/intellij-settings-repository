@@ -1,0 +1,8 @@
+<templateSet group="AndroidCompose">
+  <template name="remember" value="remember { &#10;    $SELECTION$$END$&#10;}" description="surround with remember" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
