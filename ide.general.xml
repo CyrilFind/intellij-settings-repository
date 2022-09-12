@@ -13,6 +13,7 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
