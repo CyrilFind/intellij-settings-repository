@@ -1,6 +1,10 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="absoluteDateTimeStyle" value="ISO_8601" />
+    <option name="absoluteDateTimeStyle" value="DMY_TIME" />
+    <option name="blameInlineAuthorNameType" value="FIRSTNAME" />
+    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="outdatedBranchesExclusionGlobs">
       <list>
         <option value="master" />
