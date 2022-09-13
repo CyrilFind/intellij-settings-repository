@@ -1,0 +1,13 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="absoluteDateTimeStyle" value="ISO_8601" />
+    <option name="outdatedBranchesExclusionGlobs">
+      <list>
+        <option value="master" />
+        <option value="main" />
+        <option value="dev" />
+        <option value="develop" />
+      </list>
+    </option>
+  </component>
+</application>
