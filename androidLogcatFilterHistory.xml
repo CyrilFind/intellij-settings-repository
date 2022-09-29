@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine frames" />
         <option value="package:mine jank" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
