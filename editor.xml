@@ -9,6 +9,16 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
@@ -17,7 +27,7 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="ObjectiveC.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JAVA.JavaLens>
         <JavaLensSettings>
@@ -40,6 +50,24 @@
           <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </TypeScript.ts.type.hints>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showObviousTypes" value="true" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
+      <kotlin.kotlin.references.types.hints>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.kotlin.references.types.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showInferred" value="true" />
+        </Settings>
+      </JAVA.annotation.hints>
     </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
