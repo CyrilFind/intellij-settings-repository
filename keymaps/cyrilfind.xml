@@ -91,7 +91,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="meta u" />
@@ -171,10 +171,6 @@
   <action id="ShowPreviousInlineCompletionAction" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
