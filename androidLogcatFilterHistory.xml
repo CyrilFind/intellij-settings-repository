@@ -1,18 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine frames" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine frames" />
-        <option value="package:mine " />
-        <option value="package:mine json" />
-        <option value="package:mine column" />
-        <option value="package:mine" />
         <option value="package:mine level:error " />
-        <option value="package:mine jank" />
-        <option value="package:mine -message:isSBSettingEnabled" />
-        <option value="package:mine -" />
-        <option value="package:mine tag:EventLogger " />
+        <option value="package:mine" />
         <option value="package:mine level:error tag:CYRIL" />
       </list>
     </option>
