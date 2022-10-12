@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
+    <option name="mostRecentlyUsed" value="package:mine -message:updateAcquireFence" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -message:updateAcquireFence" />
+        <option value="package:mine " />
         <option value="package:mine level:ERROR " />
         <option value="package:mine  -message:updateAcquireFence level:error " />
         <option value="package:mine  -message:updateAcquireFence" />

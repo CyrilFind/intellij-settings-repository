@@ -5,17 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="8ABY0H1UZ" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3 XL" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="R58NB4NK0NK" />
           </Key>
         </key>
@@ -53,6 +42,17 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8ABY0H1UZ" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3 XL" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
