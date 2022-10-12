@@ -1,0 +1,18 @@
+<templateSet group="user">
+  <template name="read" value="&#10;File(&quot;$NAME$&quot;).bufferedReader().use {&#10;    $CURSOR$&#10;}" description="Read a file" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;file&quot;" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="readtext" value="&#10;val $VAR$ = File(&quot;$NAME$&quot;).bufferedReader().readText()" description="Read entire file to string" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="text" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;file&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
