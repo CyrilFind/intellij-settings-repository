@@ -6,7 +6,11 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="compactTreeIndents" value="true" />
+    <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
@@ -15,6 +19,6 @@
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="smoothScrolling" value="false" />
+    <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
