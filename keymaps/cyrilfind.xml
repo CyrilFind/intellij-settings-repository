@@ -199,6 +199,12 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="android.deploy.livedit.recompose">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="android.deploy.livedit.trigger">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="android.fd.HotswapAction">
     <keyboard-shortcut first-keystroke="shift meta r" />
     <keyboard-shortcut first-keystroke="meta r" />
