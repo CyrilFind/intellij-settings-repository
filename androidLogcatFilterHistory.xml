@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="package:mine -message:updateAcquireFence -message:getCurrentPosition " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine -message:updateAcquireFence -message:getCurrentPosition " />
         <option value="package:video.mojo.export " />
-        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine -message:updateAcquireFence -message:getCurrentPosition level:error " />
         <option value="package:mine -message:updateAcquireFence -message:getCurrentPosition" />
